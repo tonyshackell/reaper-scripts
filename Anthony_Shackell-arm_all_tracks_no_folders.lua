@@ -1,4 +1,4 @@
--- @version 1.0.1
+-- @version 1.0
 -- @author Anthony Shackell
 -- @description Arm all tracks except for parent folders
 
